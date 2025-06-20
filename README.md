@@ -1,5 +1,5 @@
 ## Driven by Data: German Car Price Prediction (U.S. Market)
-**Code:** [Driven by Data Jupyter Notebook] (Coming Soon)
+**Code:** [Driven by Data Jupyter Notebook](https://github.com/ahourani2000/Driven-by-Data/blob/main/Driven%20by%20Data.ipynb)
 
 **Tableau Dashboard:** (Coming Soon)
 
